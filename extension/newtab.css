@@ -10,6 +10,9 @@ body {
   background-repeat: no-repeat;
   background-color: #000000;
 
+  margin-left: 0px;
+  margin-right: 0px;
+
   color: white;
 
   display: flex;
@@ -40,7 +43,12 @@ body {
 
   position: absolute;
 
+  margin-left: 0;
+  margin-right: 0;
   margin-bottom: 2%;
+
+  left: 0;
+  right: 0;
   bottom: 0;
 
   width: 100%;
