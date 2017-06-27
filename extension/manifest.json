@@ -3,7 +3,7 @@
 
   "name": "Stoicism Quotes New Tab",
   "description": "Change your new tab to display stoicism quotes",
-  "version": "1.0",
+  "version": "1.0.1",
   "chrome_url_overrides" : {
     "newtab" : "newtab.html"
   }
